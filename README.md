@@ -99,3 +99,8 @@ cs_flags=0x22020221
 
 - [xnu/osfmk/kern/cs_blobs.h](https://github.com/apple-oss-distributions/xnu/blob/94d3b452840153a99b38a3a9659680b2a006908e/osfmk/kern/cs_blobs.h), `CS_INVALID_ALLOWED` definition
 - [pid_for_task](https://newosxbook.com/articles/PST2.html), Jonathan Levin, `pid_for_task` workaround for `task_for_pid`
+
+
+---
+tags: [task_for_pid, pid_for_task, detect_task_for_pid, detect_pid_for_task, task_for_pid_detection, pid_for_task_detection, CS_INVALID_ALLOWED, csops, csops_CS_OPS_STATUS, macOS, XNU, anti-debug, anti-debug_macOS, anti-tamper, anti-cheat, macOS_anti-cheat, mach_task_port, mach_task_port_detection, code_signing, code_signing_flags, process_injection_detection, detect_process_injection, TASK_EXTMOD_INFO, task_for_pid_count, processor_set_tasks, macOS_security, arm64, reverse_engineering, detect_debugger_macOS]
+---
