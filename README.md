@@ -94,6 +94,7 @@ cs_flags=0x22020221
 
 ## Notes
 - Tested on macOS 27.0 beta 2, arm64.
+- Userspace detection of previously granted Mach task-port access, covering both task_for_pid() and task enumeration followed by pid_for_task().
 
 ## References
 
