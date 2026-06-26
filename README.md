@@ -1,4 +1,4 @@
-# Detecting `task_for_pid` and `pid_for_task` via `CS_INVALID_ALLOWED`
+# Detecting `task_for_pid` and `pid_for_task` via `CS_INVALID_ALLOWED`. First public detection pid_for_task.
 
 ## Overview
 
